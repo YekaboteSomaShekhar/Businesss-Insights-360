@@ -1,6 +1,9 @@
 # Businesss-Insights-360
 This is my Business Insights 360 project on Atliq Hardware, created using Microsoft Power BI.
 
+# Project Live Dashboard 
+https://app.powerbi.com/view?r=eyJrIjoiODE2ODdjNTEtOTkyNi00MTQ1LWI1MDAtNTM2NzM2MDNjY2U4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
 ## Project Overview
 The Business Insights 360 project provides a comprehensive dashboard designed to offer detailed insights into various business operations. This project includes five key views: Finance, Sales, Marketing, Supply Chain, and Executive, each tailored to a specific business area, enabling stakeholders to make data-driven decisions effectively.
 
