@@ -31,3 +31,15 @@ The Business Insights 360 project provides a comprehensive dashboard designed to
 + Showcasing Key Insights by Sub Zone, PC Market Share Trend, Revenue by Division(PC, P & A, N & S), Revenue by Channel(Retailer, Direct, Distributor).
 + Analyzed Yearly Trend by Revenue, GM%, Net Profit%, PC Market Share%.
 + Displayed the Top 5 Customers and Products by Revenue, along with their Revenue Contribution Percentage and Gross Margin Percentage. This analysis helps identify which customers and products are contributing to revenue growth or experiencing a decline in performance.
+
+## Technologies Used
++ Power BI Desktop
++ DAX 
++ SQL 
++ Excel (loaded csv files into Power BI desktop)
++ DAX Studio (to reduce the file size)
+
+## Soft Skills
++ Utilized effective communication and negotiation skills to align strategies with stakeholder expectations.
++ communicated complex data clearly to stakeholders.
++ Leveraged strategic thinking and decision-making abilities to present data-driven insights to senior stakeholders.
